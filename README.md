@@ -14,3 +14,5 @@ Repository for Kaggle Competition 'Exploring Mental Health Data'
 **Some codes might not be neat because it is a 'real' process of developing a model.**
 
 </div>
+
+Final prediction was created by 'Day_06_05_Voting_Classifier.ipynb'.
