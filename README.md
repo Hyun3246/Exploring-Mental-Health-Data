@@ -11,6 +11,6 @@ Repository for Kaggle Competition 'Exploring Mental Health Data'
 
 <div align="center">
 
-**Some codes might not be neat because it was a 'real' process of developing a model.**
+**Some codes might not be neat because it is a 'real' process of developing a model.**
 
 </div>
